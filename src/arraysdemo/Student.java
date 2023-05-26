@@ -16,7 +16,8 @@ public class Student {
     private String address;
     //comment again
     //comment added on remote to showcase fetch
-    //added another comment to make remote get ahead twice 
+    //added another comment to make remote get ahead twice
+    //added yet another comment to test pull. Auto merge with local
 
     public String getAddress() {
         return address;
